@@ -1,19 +1,18 @@
-Programming Academy Schedule and Description, v2016-11-15
-==================================================================
-Prepared for York College, CUNY by Sean Reed
+#   Programming Academy Schedule and Description, v2016-11-16
+##  Prepared for York College, CUNY by Sean Reed
 
 This course introduces core computer programming and database principles that are needed for web application development. Students are expected to complete several hands-on and portfolio projects and attend in class lectures, exam preparation, assessment and feedback sessions.
+
 This course will be 14 weeks, conducted 6 hours per day   4 days per week (1 week introduction, 12 weeks of instruction, and 1 week of exam review/internship interviews preparation)
 
 Tentative Course Start Date: Monday, February 6th, 2017
-Tentative Course End Date:   Friday, May 12th, 2017
+Tentative Course End Date:   Thursday, May 25th, 2017
 
 Expected Program Duration: 56 days (14 weeks * 4days/wk, which excludes holidays and Spring Recess)
 
 
 
-Course Objectives
------------------
+## Course Objectives
 
 During the course, the students will: 
 
@@ -28,16 +27,15 @@ During the course, the students will:
 9. Learn How to Deploy Websites That They've Built So That They are Accessible to Everyone with an Internet Connection 
 Students will also do a deep dive into Oracle SQL as preparation to take the Oracle SQL Fundamentals Exam (1Z0-061) after completion of the course.
 
-10. The (positive) results of the SQL Fundamentals exam would be a “work product” for students’ portfolios.  The primary objective is for students to prepare for, take and pass the Java 7 Programmer Certification.  
+10. The (positive) results of the SQL Fundamentals exam would be a “work product” for students’ portfolios.  The primary objective is for students to prepare for, take and pass the Java 8 Programmer Certification.  
 
-Course Outline
-==============
+##  Course Outline
+
 Learn The Basics of The World Wide Web, Websites, and The Internet 
-------------------------------------------------------------------
 
 
-Week 1
-------
+###	Week 1
+
 The Internet and The World Wide Web: What is the difference?
 Duration: 1/4 day
 
@@ -56,8 +54,8 @@ Make Your HTML-Only Website Look Nice(r) with CSS
 Duration: 3 days
 
 
-Week 2-3
------------
+###	Week 2-3
+
 Learn How to Build Interactive Websites using HTML, CSS, Javascript, and JQuery (7 days total)
 
 Learn How JavaScript Makes Your HTML and CSS-only Website Respond to User Actions
@@ -84,8 +82,8 @@ Duration: 1/2 day
 Beyond JQuery: Other Javascript Libraries and Frameworks Used for Building Interactive Websites
 Duration: 1/4 day
 
-Weeks 3-7
----------
+###	Weeks 3-7
+
 Learn How to Build Websites That Can Create, Read, Update, and Delete Data using HTML, CSS, Javascript, JQuery, Java and an Oracle SQL database
 Duration (23 days total)
 
@@ -129,7 +127,7 @@ Using HTML, CSS, Javascript, JQuery, Java and an Oracle SQL database to Create, 
 Duration: 2 days
 
 
-Weeks 8-10
+###	Weeks 8-10
 Prepare for the Oracle SQL Fundamentals Exam (1Z0-061) after completion of the course.
 Overview of Oracle Database 12c and Related Products
 Overview of relational database management concepts and terminologies
@@ -178,6 +176,3 @@ Natural join
 Self-join
 Non equi-joins
 OUTER join
-
-Duration (15 days total)
-in
