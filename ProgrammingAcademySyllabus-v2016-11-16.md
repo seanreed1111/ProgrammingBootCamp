@@ -3,12 +3,12 @@
 
 This course introduces core computer programming and database principles that are needed for web application development. Students are expected to complete several hands-on and portfolio projects and attend in class lectures, exam preparation, assessment and feedback sessions.
 
-This course will be 14 weeks, conducted 6 hours per day   4 days per week (1 week introduction, 12 weeks of instruction, and 1 week of exam review/internship interviews preparation)
+This course will be 14 weeks, conducted 6 hours per day   5 days per week (1 week introduction, 12 weeks of instruction, and 1 week of exam review/internship interviews preparation)
 
 Tentative Course Start Date: Monday, February 6th, 2017
 Tentative Course End Date:   Thursday, May 25th, 2017
 
-Expected Program Duration: 56 days (14 weeks * 4days/wk, which excludes holidays and Spring Recess)
+Expected Program Duration: 70 days (14 weeks * 5days/wk, which excludes holidays and Spring Recess)
 
 
 
